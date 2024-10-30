@@ -48,7 +48,7 @@ def enviar_certificaciones(certificaciones):
     except requests.RequestException as e:
         print(f"Error al conectar con el servidor: {e}")
 
-# Ejecución del flujo principal
+
 if __name__ == "__main__":
     certificaciones = obtener_certificaciones()
     enviar_certificaciones(certificaciones)
