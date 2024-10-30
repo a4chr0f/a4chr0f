@@ -55,8 +55,7 @@ if __name__ == "__main__":
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafelkadrani) 
 
-## 💻 Tech Stack:
-
+### 💻 Tech Stack:
 
 # 💻 Programming Languages
 
