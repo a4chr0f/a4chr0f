@@ -4,11 +4,11 @@ Soy Achraf El k (aka Asfelk), un apasionado de la ciberseguridad y Des. Me espec
 
 Además, estoy programando en varios lenguajes y frameworks; mis favoritos son Python y JavaScript, ya que permiten una gran versatilidad tanto en desarrollo web como en proyectos de ciberseguridad.
 
-## 👀 My blog: 
+# 👀 My blog: 
 
 ### [CyberAchrafBlog](https://cyberachraf.vercel.app/)
 
-## 🔐 Script de Certificaciones de Ciberseguridad:
+# 🔐 Script de Certificaciones de Ciberseguridad:
 
 ```python
 import os
@@ -52,12 +52,12 @@ if __name__ == "__main__":
 ``` 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafelkadrani) 
 
-### 💻 Tech Stack:
+# 💻 Tech Stack:
 
-# 💻 Programming Languages
+#### 💻 Programming Languages
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
 
 
-# 🚀 Web Technologies
+#### 🚀 Web Technologies
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.django-rest-framework.org/)
@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
 
 
-# 🛠️ Tools
+#### 🛠️ Tools
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=101010)](https://git-scm.com/)
