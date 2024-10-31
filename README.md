@@ -1,19 +1,18 @@
 ## Hi there 👋
 
-👋 Soy Achraf El K (aka Asfelk)
+👋 I am Achraf El K (aka Asfelk)
 
-💻 Apasionado de la ciberseguridad y el desarrollo web. Mi enfoque está en Pentesting y Red Team, donde disfruto resolviendo retos de CTF en plataformas como Hack The Box (HTB) y TryHackMe (THM).
+💻 I am passionate about cybersecurity and web development. My focus is on Pentesting and Red Team, where I enjoy solving CTF challenges on platforms like Hack The Box (HTB) and TryHackMe (THM).
 
-🔧 Programo en varios lenguajes y frameworks, pero mis favoritos son Python y JavaScript por su versatilidad en el desarrollo web y en proyectos de ciberseguridad.
+🔧 I program in various languages and frameworks, but my favorites are Python and JavaScript for their versatility in web development and cybersecurity projects.
 
-🛠️ Estoy siempre en búsqueda de nuevos desafíos y de oportunidades para aplicar mis habilidades en entornos prácticos.
-
+🛠️ I am always on the lookout for new challenges and opportunities to apply my skills in practical environments.
 
 # 👀 My blog: 
 
 ### [CyberAchrafBlog](https://cyberachraf.vercel.app/)
 
-# 🔐 Script de Certificaciones de Ciberseguridad:
+# 🔐 Script:
 
 ```python
 import os
