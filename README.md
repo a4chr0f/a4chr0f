@@ -28,9 +28,6 @@ def obtener_certificaciones():
         "SMR": 1,       # Sistemas Microinformáticos y Redes
         "eJPT": 1,      # Junior Penetration Tester
         "DAW": 1,       # Desarrollo de Aplicaciones Web
-        "eCPPT": 0,     # Certified Professional Penetration Tester
-        "eWPT": 0,      # Web Application Penetration Tester
-        "OSCP": 0,      # Offensive Security Certified Professional
     }
 
 
